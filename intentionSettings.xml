@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Declaration/Add Array Creation Expression" />
+    <ignoreAction name="Android/Insert App Indexing API Code" />
+    <ignoreAction name="Imports/Add On Demand Static Import" />
+    <ignoreAction name="Control Flow/Invert 'if' condition" />
+  </component>
+</application>
